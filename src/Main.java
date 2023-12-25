@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Main commit 1");
         System.out.println("Main commit 2");
         System.out.println("feature1");
+        System.out.println("feature2");
     }
 }
